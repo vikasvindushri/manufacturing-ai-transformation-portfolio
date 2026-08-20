@@ -1,5 +1,0 @@
-case_id,area,symptom,severity
-MFG-001,Controls,"Intermittent communication with controller after key cycle",High
-MFG-002,Electrical,"Battery voltage drops significantly during crank",High
-MFG-003,Quality,"Repeated component failure after low mileage",Medium
-MFG-004,Production,"Station experiences recurring cycle-time delay",Medium

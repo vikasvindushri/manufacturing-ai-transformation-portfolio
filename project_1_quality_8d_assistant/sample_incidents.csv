@@ -1,4 +1,0 @@
-incident_id,model,mileage,fault_code,component,complaint
-Q-1001,Mack Anthem,18420,SPN639 FMI2,EECU communication,"Vehicle intermittently loses communication with the engine controller after extended key-off period. Technician reports multiple network communication faults. Issue clears after battery power cycle."
-Q-1002,Volvo VNL,32150,P105594,Vehicle speed signal,"Speedometer intermittently drops below zero while vehicle is moving. Diagnostic tool shows implausible vehicle speed during the event."
-Q-1003,Mack Pinnacle,12780,B151095,SCIM,"Steering column interface module intermittently becomes unavailable after cold soak. Multiple communication-related codes are logged."
