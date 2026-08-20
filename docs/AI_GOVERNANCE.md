@@ -1,12 +1,19 @@
-# AI Governance
+# AI Governance Checklist
 
-- Classify data before sending it to an AI platform.
-- Use approved enterprise AI services for confidential information.
-- Preserve identity and access controls.
-- Ground engineering answers in approved evidence where possible.
-- Require human validation for quality, engineering, production and safety decisions.
-- Measure accuracy, hallucination, completeness and source-grounding.
-- Maintain auditability and escalation paths.
-- Define rollback procedures.
+Before piloting an AI use case, confirm:
 
-**Principle:** AI accelerates the expert; it does not remove accountability from the expert.
+- Is the data approved for the selected AI platform?
+- Does the workflow contain confidential or personally identifiable information?
+- Are user permissions preserved?
+- Can the AI answer be traced to source evidence?
+- What happens when the model is wrong?
+- Is human approval required?
+- Is there an audit trail?
+- How will accuracy be measured?
+- What is the rollback process?
+- Who owns the business outcome?
+- What metrics define success?
+
+## Manufacturing principle
+
+AI should support engineering and operational decisions, not silently replace accountable decision-makers in safety-critical or quality-critical workflows.
